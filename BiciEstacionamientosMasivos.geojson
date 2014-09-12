@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Cuautitl�n", "CoordXLong": -99.176303252500006, "CoordYLat": 19.667032832 }, "geometry": { "type": "Point", "coordinates": [ -99.176303252455583, 19.667032832016123 ] } },
+{ "type": "Feature", "properties": { "Name": "Pantitl�n", "CoordXLong": -99.075165928, "CoordYLat": 19.416282709 }, "geometry": { "type": "Point", "coordinates": [ -99.075165928025569, 19.416282708993098 ] } }
+]
+}
